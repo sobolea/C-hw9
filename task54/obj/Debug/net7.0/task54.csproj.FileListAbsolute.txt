@@ -1,0 +1,15 @@
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\bin\Debug\net7.0\task54.exe
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\bin\Debug\net7.0\task54.deps.json
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\bin\Debug\net7.0\task54.runtimeconfig.json
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\bin\Debug\net7.0\task54.dll
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\bin\Debug\net7.0\task54.pdb
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\obj\Debug\net7.0\task54.csproj.AssemblyReference.cache
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\obj\Debug\net7.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\obj\Debug\net7.0\task54.AssemblyInfoInputs.cache
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\obj\Debug\net7.0\task54.AssemblyInfo.cs
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\obj\Debug\net7.0\task54.csproj.CoreCompileInputs.cache
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\obj\Debug\net7.0\task54.dll
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\obj\Debug\net7.0\refint\task54.dll
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\obj\Debug\net7.0\task54.pdb
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\obj\Debug\net7.0\task54.genruntimeconfig.cache
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les8 hw\task54\obj\Debug\net7.0\ref\task54.dll
